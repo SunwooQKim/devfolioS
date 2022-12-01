@@ -62,7 +62,6 @@ In the future, I hope to work on a cybersecurity team, where I can collaborate w
       },
     },
     
-    },
     {
       resolve: `gatsby-transformer-remark`,
       options: {
