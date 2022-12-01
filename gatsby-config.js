@@ -73,7 +73,7 @@ In the future, I hope to work on a cybersecurity team, where I can collaborate w
               maxWidth: 590,
               wrapperStyle: `margin: 0 0 30px;`,
             },
-          },
+    
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
