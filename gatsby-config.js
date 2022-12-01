@@ -22,7 +22,7 @@ In the future, I hope to work on a cybersecurity team, where I can collaborate w
       {
         name: 'Security Team Competition',
         description:
-          'evaluates student project vulnerabilities and threats to identify the risks it faces. Creating comprehensive recommendations for mitigating those risks',
+          'Evaluate student projects for vulnerabilities and threats to identify the risks it faces. Creating comprehensive reports with recommendations for mitigating those risks',
         link: '',
       },
     ],
@@ -30,7 +30,7 @@ In the future, I hope to work on a cybersecurity team, where I can collaborate w
     experience: [
       {
         name: 'U.S West Point',
-        description: 'Research Analyst, June 2020 - September 2020',
+        description: 'Research Analyst, June 2020 - September 2020 \nResponsible for the performance, integrity, and security of Army information system databases.',
         link: '',
       },
     ],
