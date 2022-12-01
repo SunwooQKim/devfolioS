@@ -61,12 +61,7 @@ In the future, I hope to work on a cybersecurity team, where I can collaborate w
         path: `${__dirname}/src/images`,
       },
     },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/content/blog`,
-        name: `blog`,
-      },
+    
     },
     {
       resolve: `gatsby-transformer-remark`,
